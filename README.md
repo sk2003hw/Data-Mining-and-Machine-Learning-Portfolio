@@ -26,3 +26,9 @@ report- meeting min, work div, contrib, this week's discretization - Areesha
         working of the classifier, summarize results (best accuarcy, interesting inferences) - Rida    
 
 optional task- Areesha (include in the report)  
+
+Report- discretization of g1,g2,g3, what is correlation- why do we calculate it, (Areesha).   
+what's a correlation matrix - why do we make one?, (Rida).   
+ what's heatmap - why make one?, (Shreya).   
+what's scatterplot - why make one, (Kulsoom).   
+what's pairplot - why make one? (Richa).   
