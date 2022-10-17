@@ -36,7 +36,7 @@ what's pairplot - why make one? (Richa).
 ## LAB - 4
 * Evaluation metrics and their confusion matrix - Kulsoom
 * Train/test split cross validation - Richa
-* Pipeline class - Rida
+* Pipeline class - Rida  
 Very detailed report based on whatever is implemented
 
     
