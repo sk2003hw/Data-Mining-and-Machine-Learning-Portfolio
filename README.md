@@ -1,7 +1,7 @@
 # F21DL-Group-16  
 DM &amp; ML Portfolio  
 
-## For week-2  
+## LAB - 2  
 - have comments in code  
 - summaries- what we did, why we did, explain terms, equations, and methods  
 
@@ -11,7 +11,7 @@ preprocessing - changing column names, clean categorical attrb (finding the inva
 graphs- types for all attb (binary) - Areesha, Rida   
 normalization- Richa  
 
-## For week-3
+## LAB - 3
 - have comments in code   
 
 
@@ -32,3 +32,15 @@ what's a correlation matrix - why do we make one?, (Rida).
  what's heatmap - why make one?, (Shreya).   
 what's scatterplot - why make one, (Kulsoom).   
 what's pairplot - why make one? (Richa).   
+
+## LAB - 4
+* Evaluation metrics and their confusion matrix - Kulsoom
+* Train/test split cross validation - Richa
+* Pipeline class - Rida  
+Very detailed report based on whatever is implemented
+
+    
+ ## LAB 5
+
+  1&2 compulsory tasks - Shreya and Areesha
+  
