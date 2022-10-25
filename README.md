@@ -42,5 +42,9 @@ Very detailed report based on whatever is implemented
     
  ## LAB 5
 
-  1&2 compulsory tasks - Shreya and Areesha
+* Multinominal Naive Bayes - Shreya  
+* Gaussian Naive Bayes - Rida 
+* Complement Naive Bayes - Kulsoom 
+* Bernoulli Naive Bayes - Richa 
+* Categorical Naive Bayes - Areesha 
   
