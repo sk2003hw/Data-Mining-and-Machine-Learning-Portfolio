@@ -1,4 +1,4 @@
-# F20DL-Portfolio-Group-16  
+# Data-Mining-and-Machine-Learning-Portfolio  
 1. Methods  for  data  preparation  and  analysis,  including  probabilistic/Bayesian  methods  of  data 
 analysis, calculating correlation of features and performing feature selection.    
 2. Unsupervised Learning and Clustering   
